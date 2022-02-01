@@ -1,0 +1,30 @@
+[3] 13:42:36: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Training\AS1 Training.tws'
+[3] 13:42:36: Log level: 4
+[3] 13:42:36: Release: 30.1.25.0
+[3] 13:42:37: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 13:42:40: No service discovery configured.
+[3] 13:42:40:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.0.836 (836)
+[3] 13:42:40:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.0.836 (836)
+[3] 13:42:40:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.0.836 (836)
+[3] 13:42:40:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.0.836 (836)
+[3] 13:42:40:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.0.836 (836)
+[3] 13:42:40:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.0.836 (836)
+    - : QTestIntegration 15.0.0.170 (170)
+    + : SAPSolutionManagerIntegration 15.0.0.170 (170)
+[3] 13:42:40: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 13:42:40: Searcher found 0 results in 155.6092 ms
+[3] 13:42:40:  + OptIntAddIn: OptIntAddIn 15.0.0.836 (836)
+[3] 13:42:40:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.0.836 (836)
+[3] 13:42:40:  + RemoteControl: RemoteControlAddIn 15.0.0.836 (836)
+[3] 13:42:40:  + Reporting: ReportingAddIn 15.0.0.836 (836)
+[3] 13:42:40:  + ReportingUI: ReportingUIAddIn 15.0.0.836 (836)
+[3] 13:42:40:  - RequirementsManagementAddIn: RequirementsManagement 15.0.0.836 (836)
+[3] 13:42:40:  - RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.0.836 (836)
+[3] 13:42:40:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.0.836 (836)
+[3] 13:42:41:  - TestCaseDesign: TestCaseDesign 15.0.0.836 (836)
+[3] 13:42:41:  - ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.0.836 (836)
+[3] 13:42:41:  + XDefinitions: XDefinitions 15.0.0.836 (836)
+[3] 13:42:41:  + XDefinitionsUI: XDefinitionsUI 15.0.0.836 (836)
+[3] 13:42:46: Closing Workspace
+[3] 13:42:46: Closing Workspace!
+[3] 13:42:46: Log closed!

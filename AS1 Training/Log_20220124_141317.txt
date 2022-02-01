@@ -1,0 +1,104 @@
+[3] 14:13:17: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Training\AS1 Training.tws'
+[3] 14:13:17: Log level: 4
+[3] 14:13:17: Release: 15.0.0.836
+[3] 14:13:19: No service discovery configured.
+[3] 14:13:19:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.0.836 (836)
+    - : QTestIntegration 15.0.0.170 (170)
+    + : SAPSolutionManagerIntegration 15.0.0.170 (170)
+[3] 14:13:19: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 14:13:19: Searcher found 0 results in 95.7438 ms
+[3] 14:13:19:  + OptIntAddIn: OptIntAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + RemoteControl: RemoteControlAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + Reporting: ReportingAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + ReportingUI: ReportingUIAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + RequirementsManagementAddIn: RequirementsManagement 15.0.0.836 (836)
+[3] 14:13:19:  + RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.0.836 (836)
+[3] 14:13:19:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + TestCaseDesign: TestCaseDesign 15.0.0.836 (836)
+[3] 14:13:19:  + ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.0.836 (836)
+[3] 14:13:19:  + XDefinitions: XDefinitions 15.0.0.836 (836)
+[3] 14:13:19:  + XDefinitionsUI: XDefinitionsUI 15.0.0.836 (836)
+[3] 14:13:19: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\AS1 Training\AS1 Training.tws'
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 14:13:23:  ShowStatusInfo: 'Ready'
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Reporting''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 14:13:23:  ShowStatusInfo: 'Ready'
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Reporting''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh all finished'
+[4] 14:13:23:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 14:13:23:  ShowStatusInfo: 'Ready'
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Reporting''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 14:13:23:  ShowStatusInfo: 'Ready'
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Reporting''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh all finished'
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 14:13:23:  ShowStatusInfo: 'Ready'
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh navigation view 'Reporting''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 14:13:23:  ShowStatusInfo: 'Ready'
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh detail view 'Reporting''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 14:13:23:  ShowStatusInfo: 'Refresh all finished'
+[0] 14:13:23: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Tricentis.TCCore.Base.Workspace.IsFileServiceEnabledInRepository()
+[3] 14:13:23: OpenWorkspace took 00:00:06.4064045 to finish
+[4] 14:13:28:  ShowStatusInfo: 'Ready'
+[4] 14:13:30:  ShowStatusInfo: '1 object selected'
+[4] 14:13:32:  ShowStatusInfo: 'Ready'
+[4] 14:13:32:  ShowStatusInfo: '1 object selected'
+[4] 14:13:37:  ShowStatusInfo: 'Ready'
+[4] 14:13:41:  ShowStatusInfo: '1 object selected'
+[4] 14:13:42:  ShowStatusInfo: 'Ready'
+[4] 14:13:43:  ShowStatusInfo: '1 object selected'
+[4] 14:13:46:  ShowStatusInfo: 'Ready'
+[4] 14:13:49:  ShowStatusInfo: '1 object selected'
+[4] 14:13:49:  ShowStatusInfo: 'Ready'
+[4] 14:15:37:  ShowStatusInfo: '1 object selected'
+[4] 14:15:37:  ShowStatusInfo: 'Ready'
+[4] 14:15:37:  ShowStatusInfo: '1 object selected'
+[4] 14:15:37:  ShowStatusInfo: 'Ready'
+[4] 14:18:17:  ShowStatusInfo: '1 object selected'
+[4] 14:18:22:  ShowStatusInfo: 'Ready'
+[3] 14:29:00: Closing Workspace!
+[3] 14:29:00: Log closed!
